@@ -1,8 +1,8 @@
 'use strict';
 
 var gulp = require('gulp');
-var bitcoreTasks = require('bitcore-build');
+var fcashTasks = require('fcash-build');
 
-bitcoreTasks('p2p', {skipBrowser: true});
+fcashTasks('p2p', {skipBrowser: true});
 
 gulp.task('default', ['lint', 'coverage']);
