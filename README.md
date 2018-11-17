@@ -55,4 +55,4 @@ See [CONTRIBUTING.md](https://github.com/fcash-wallet/fcash/blob/master/CONTRIBU
 
 Code released under [the MIT license](https://github.com/fcash-wallet/fcash/blob/master/LICENSE).
 
-Copyright 2013-2015 BitPay, Inc. Fcash is a trademark maintained by BitPay, Inc.
+Copyright 2013-2015 Fcash, Inc. Fcash is a trademark maintained by Fcash, Inc.
