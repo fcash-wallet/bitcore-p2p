@@ -1,6 +1,6 @@
 {
   "name": "fcash-p2p",
-  "version": "8.0.4",
+  "version": "8.0.5",
   "description": "Interface to the bitcoin P2P network for fcash",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "url": "https://github.com/fcash-wallet/fcash-p2p.git"
   },
   "dependencies": {
-    "fcash-lib": "8.0.4",
+    "fcash-lib": "8.0.5",
     "bcoin": "1.0.0-beta.12",
     "bloom-filter": "^0.2.0",
     "buffers": "bitpay/node-buffers#v0.1.2-bitpay",
